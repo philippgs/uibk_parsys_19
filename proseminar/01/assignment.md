@@ -33,7 +33,7 @@ The OSU Micro-Benchmarks suite holds multiple benchmarks that measure low-level 
 ### Tasks
 
 - Download and build the OSU Micro-Benchmarks available at http://mvapich.cse.ohio-state.edu/download/mvapich/osu-micro-benchmarks-5.6.2.tar.gz. You can also use available binaries on LCC2 at `/scratch/c703429/osu-benchmark/libexec/osu-micro-benchmarks/mpi/pt2pt` (built with `openmpi/4.0.1`). Note: If you build yourself, do not forget to set the compiler parameters for `configure`, e.g. `./configure CC=mpicc CXX=mpic++ ...`
-- After building, submit SGE jobs that run the `osu_latency` and `osu_benchmark` executables.
+- After building, submit SGE jobs that run the `osu_latency` and `osu_bw` executables.
 - Create a table and figures that illustrate the measured data and study them. What effects can you observe?
 - Modify your experiment such that the 2 MPI ranks are placed on
     - different cores of the same socket,
