@@ -39,7 +39,7 @@ The OSU Micro-Benchmarks suite holds multiple benchmarks that measure low-level 
     - different cores of the same socket,
     - different sockets of the same node, and
     - different nodes.
-- Ammend your table and figures to include these additional measurements. What effects can you observe? How can you verify rank placement without looking at performance?
+- Amend your table and figures to include these additional measurements. What effects can you observe? How can you verify rank placement without looking at performance?
 - How stable are the measurements when running the experiments multiple times?
 
 ## General Notes
