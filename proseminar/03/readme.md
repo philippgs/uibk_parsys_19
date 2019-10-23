@@ -1,6 +1,6 @@
 # Assignment 3, due October 30th 2019
 
-The goal of this assignment is to ...
+The goal of this assignment is to extend the heat stencil application and measure its performance.
 
 ## Exercise 1
 
