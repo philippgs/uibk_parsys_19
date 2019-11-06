@@ -1,6 +1,6 @@
 # Assignment 5, due November 13th 2019
 
-The goal of this assignment is to implement a n-body-type (lagrangian) simulation and consider its optimization potential.
+The goal of this assignment is to implement an n-body-type (lagrangian) simulation and consider its optimization potential.
 
 ## Exercise 1
 
