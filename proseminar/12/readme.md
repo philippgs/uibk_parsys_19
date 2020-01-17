@@ -11,8 +11,8 @@ The Chapel programming model has been briefly discussed in the lecture. It is a 
 ### Tasks
 
 - Download and install Chapel using [this download link](https://chapel-lang.org/download.html) and [this quickstart guide](https://chapel-lang.org/docs/usingchapel/QUICKSTART.html).
-- Implement a parallel version of the Monte Carlo PI computation in Chapel and benchmark it for 1, 2, 4, and 8 threads on LCC2.
-- Implement a parallel version of matrix multiplication in Chapel and benchmark it for 1, 2, 4, and 8 threads on LCC2.
+- Implement a parallel version of the Monte Carlo PI computation in Chapel and benchmark it for 1, 2, 4, and 8 threads on LCC2 with a problem size of 1 billion (10^9) samples.
+- Implement a parallel version of matrix multiplication in Chapel and benchmark it for 1, 2, 4, and 8 threads on LCC2 with a problem size of 2552x2552.
 - Enter your results in [this table](https://docs.google.com/spreadsheets/d/1Xklv7YoOBet34Q82SfKXc7K_bv_6E43UlxSStN7RDuc/edit?usp=sharing).
 
 ## Exercise 2
